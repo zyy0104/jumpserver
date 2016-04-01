@@ -1,0 +1,22 @@
+
+hostuser1:
+  username: root
+  password: abc!23
+  auth_type:  ssh-passwd
+  ip_addr:
+    - 192.168.2.200
+    - 192.168.2.105
+
+hostuser3:
+  username: root
+  password: root
+  auth_type:  ssh-passwd
+  ip_addr:
+    - 192.168.2.104
+
+hostuser4:
+  username: root
+  password: root
+  auth_type:  ssh-passwd
+  ip_addr:
+    - 192.168.2.105

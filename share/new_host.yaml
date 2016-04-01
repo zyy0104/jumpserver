@@ -1,0 +1,15 @@
+host1:
+  ip_addr: 192.168.2.200
+  port: 20022
+
+host2:
+  ip_addr: 192.168.2.201
+  port: 23
+
+host3:
+  ip_addr: 192.168.2.104
+  port: 22
+
+host4:
+  ip_addr: 192.168.2.105
+  port: 22

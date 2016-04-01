@@ -1,0 +1,9 @@
+db:
+  user:
+    - user1
+    - user2
+
+webserver:
+  user:
+    - user1
+    - yuntu
