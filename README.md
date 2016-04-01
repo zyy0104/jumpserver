@@ -1,5 +1,5 @@
-#python3.0
-#__author__:Yuntu
+python3.0
+__author__:Yuntu
 
 syncdb  #初始化表结构
 create_users #新建程序账号，如果判断用户已存在，更新密码；
